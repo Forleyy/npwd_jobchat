@@ -2,7 +2,6 @@ Free to use, no support, do not ressel this shit thx
 
 
 SQL 
-
 ```sql
 
 CREATE TABLE IF NOT EXISTS npwd_messages_conversations (
@@ -29,5 +28,4 @@ INSERT IGNORE INTO npwd_messages_conversations (id, name) VALUES
   (6, 'EM LSFS'),
   (7, 'Sheriff'),
   (8, 'EM Sheriff');
-
 ```
